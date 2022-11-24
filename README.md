@@ -1,5 +1,5 @@
 # 💫 About Me:
-Olá, eu sou Jonathan.<br><br>Sou um entusiasta de tecnologias.<br>Um apaixonado por desesenvolvimento.<br>Movido a desafios.
+Olá, eu sou Jonathan.<br><br>Sou um entusiasta de tecnologias.<br>Um apaixonado por desesenvolvimento.<br>Movido a desafios.<br>Atualmente estudo desenvolvimento web em um projeto social com a Alura em parceria coma a Orcle.
 
 
 
