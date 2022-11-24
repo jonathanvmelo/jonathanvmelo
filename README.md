@@ -1,7 +1,7 @@
 # 💫 About Me:
 Olá, eu sou Jonathan.<br><br>Sou um entusiasta de tecnologias.<br>Um apaixonado por desesenvolvimento.<br>Movido a desafios.
 
-![Snake animation](https://github.com/jonathanvmelo/jonathanvmelo/blob/output/github-contribution-grid-snake.svg)
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/jonathanvmelo/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jonathan-melo-b3966b11b/) 
@@ -17,4 +17,4 @@ Olá, eu sou Jonathan.<br><br>Sou um entusiasta de tecnologias.<br>Um apaixonado
 ---
 [![](https://visitcount.itsvg.in/api?id=jonathanvmelo&icon=0&color=12)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![Snake animation](https://github.com/jonathanvmelo/jonathanvmelo/blob/output/github-contribution-grid-snake.svg)
