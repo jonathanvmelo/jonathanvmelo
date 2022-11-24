@@ -1,6 +1,7 @@
 # 💫 About Me:
 Olá, eu sou Jonathan.<br><br>Sou um entusiasta de tecnologias.<br>Um apaixonado por desesenvolvimento.<br>Movido a desafios.
 
+![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/jonathanvmelo/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jonathan-melo-b3966b11b/) 
@@ -12,8 +13,6 @@ Olá, eu sou Jonathan.<br><br>Sou um entusiasta de tecnologias.<br>Um apaixonado
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jonathanvmelo&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jonathanvmelo&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=jonathanvmelo&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=jonathanvmelo&icon=0&color=12)](https://visitcount.itsvg.in)
