@@ -14,7 +14,7 @@ Olá, eu sou Jonathan.<br><br>Sou um entusiasta de tecnologias.<br>Um apaixonado
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jonathanvmelo&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 
+![Snake animation](https://github.com/jonathanvmelo/jonathanvmelo/blob/output/github-contribution-grid-snake.svg)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=jonathanvmelo&icon=0&color=12)](https://visitcount.itsvg.in)
-
-![Snake animation](https://github.com/jonathanvmelo/jonathanvmelo/blob/output/github-contribution-grid-snake.svg)
