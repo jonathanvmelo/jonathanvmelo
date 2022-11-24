@@ -1,7 +1,8 @@
 # 💫 About Me:
-Olá, eu sou Jonathan.<br><br>Sou um entusiasta de tecnologias.<br>Um apaixonado por desesenvolvimento.<br>Movido a desafios.<br>Atualmente estudo desenvolvimento web em um projeto social com a Alura em parceria coma a Orcle.
+Olá, eu sou Jonathan.<br><br>Sou um entusiasta de tecnologias.<br>Um apaixonado por desesenvolvimento.<br>Movido a desafios.
+<br>Atualmente estudo desenvolvimento web em um projeto social com a Alura em parceria coma a Oracle.
 
-
+<br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/jonathanvmelo/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jonathan-melo-b3966b11b/) 
